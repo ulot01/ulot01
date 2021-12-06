@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ulot01
+- 👋 Hi, I’m Tolulope
 - 👀 I’m interested in Front-end/Back-end Development, UI/UX, Cloud computing/engineering
 - 🌱 I’m currently learning Front-end development
 - 💞️ I’m looking to collaborate on ...
